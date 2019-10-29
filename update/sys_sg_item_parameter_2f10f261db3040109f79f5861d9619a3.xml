@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Stage business_service</name>
+        <parent>2f10f261db3040109f79f5861d961999</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 22:25:54</sys_created_on>
+        <sys_id>2f10f261db3040109f79f5861d9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stage business_service</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_2f10f261db3040109f79f5861d9619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 22:25:54</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

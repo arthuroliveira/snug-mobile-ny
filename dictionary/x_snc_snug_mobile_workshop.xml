@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Workshop" max_length="40" name="x_snc_snug_mobile_workshop" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" max_length="40" name="contact_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Website" max_length="40" name="website" type="string"/>
+    </element>
+</database>

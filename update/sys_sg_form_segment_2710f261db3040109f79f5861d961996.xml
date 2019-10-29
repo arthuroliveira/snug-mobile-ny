@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Activity Stream">2b10f261db3040109f79f5861d961991</embedded_screen>
+        <form display_value="Stage Form Screen">2310f261db3040109f79f5861d961990</form>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 22:25:54</sys_created_on>
+        <sys_id>2710f261db3040109f79f5861d961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_form_segment_2710f261db3040109f79f5861d961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 22:25:54</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

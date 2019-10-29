@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="SNUG Mobile Lab">d7107261db3040109f79f5861d9619ab</applet_launcher>
+        <icon display_value="Home SNUG Mobile Lab">9b107261db3040109f79f5861d9619ac</icon>
+        <label>SNUG Mobile Lab</label>
+        <roles>x_snc_snug_mobile.mobile_lab</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 22:25:53</sys_created_on>
+        <sys_id>5b107261db3040109f79f5861d9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNUG Mobile Lab</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_5b107261db3040109f79f5861d9619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 22:25:53</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Workshop)">9710f261db3040109f79f5861d961937</button>
+        <button_parent_table>x_snc_snug_mobile_workshop</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>company</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Company</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 22:25:53</sys_created_on>
+        <sys_id>9310f261db3040109f79f5861d961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_9310f261db3040109f79f5861d961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 22:25:53</sys_updated_on>
+        <table_name>x_snc_snug_mobile_workshop</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=9310f261db3040109f79f5861d961940"/>
+</record_update>
