@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>ignore</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_x_snc_snug_mobile_workshop">77c83e69db3040109f79f5861d961912</map>
+        <reference_value_field/>
+        <source_field>u_contact_email</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_x_snc_snug_mobile_workshop</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 23:03:54</sys_created_on>
+        <sys_id>04d83e69db3040109f79f5861d96192e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_contact_email</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_transform_entry_04d83e69db3040109f79f5861d96192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 23:03:54</sys_updated_on>
+        <target_field>contact_email</target_field>
+        <target_table>x_snc_snug_mobile_workshop</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>
