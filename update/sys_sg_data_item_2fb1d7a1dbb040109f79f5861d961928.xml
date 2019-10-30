@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Stages Related List</name>
+        <query_condition table="x_snc_snug_mobile_stage">workshop={{Workshop}}<item endquery="false" field="workshop" goto="false" newquery="false" operator="=" or="false" value="{{Workshop}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 00:52:49</sys_created_on>
+        <sys_id>2fb1d7a1dbb040109f79f5861d961928</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Stages Related List</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_data_item_2fb1d7a1dbb040109f79f5861d961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 00:53:52</sys_updated_on>
+        <table>x_snc_snug_mobile_stage</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fb1d7a1dbb040109f79f5861d961928"/>
+</record_update>

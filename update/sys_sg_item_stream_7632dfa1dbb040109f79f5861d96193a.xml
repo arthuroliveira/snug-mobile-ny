@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Stages Related List">2fb1d7a1dbb040109f79f5861d961928</data_item>
+        <interleaved_field/>
+        <name>Stages Related List Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 00:54:57</sys_created_on>
+        <sys_id>7632dfa1dbb040109f79f5861d96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stages Related List Item Stream</sys_name>
+        <sys_package display_value="SNUG Mobile Lab" source="x_snc_snug_mobile">118ca22ddbfc00109f79f5861d9619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNUG Mobile Lab">118ca22ddbfc00109f79f5861d9619cd</sys_scope>
+        <sys_update_name>sys_sg_item_stream_7632dfa1dbb040109f79f5861d96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 00:54:57</sys_updated_on>
+        <table>x_snc_snug_mobile_stage</table>
+    </sys_sg_item_stream>
+</record_update>
